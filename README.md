@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ## Full Stack Web Developer
 
---- 
+
 
 - 💬 Ask me about React, NextJS, T3 Stack
 - 🌱 I’m currently learning Typescript
 
+### Connect with Me
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
