@@ -1,4 +1,4 @@
-### Hi 👋, I'm Anthony
+# Hi 👋, I'm Anthony
 
 <!--
 **4nth0ny1/4nth0ny1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Full Stack Web Developer
-
+### Full Stack Web Developer
 
 - 🔭 I’m currently working on [ManageIt](https://t3-manage-it.vercel.app/)
 - 💬 Ask me about React, NextJS, T3 Stack
 - 🌱 I’m currently learning Typescript, Framer Motion, Prisma, tRPC
+
