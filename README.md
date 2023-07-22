@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 ## Full Stack Web Developer
 
 
-
+- 🔭 I’m currently working on [ManageIt](https://t3-manage-it.vercel.app/)
 - 💬 Ask me about React, NextJS, T3 Stack
-- 🌱 I’m currently learning Typescript
-
-### Connect with Me
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 🌱 I’m currently learning Typescript, Framer Motion, Prisma, tRPC
