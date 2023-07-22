@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Full Stack Web Developer
 
+A passionate full stack web developer dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
+
 - 🔭 I’m currently working on [ManageIt](https://t3-manage-it.vercel.app/)
 - 💬 Ask me about React, NextJS, T3 Stack
 - 🌱 I’m currently learning Typescript, Framer Motion, Prisma, tRPC
