@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Anthony
 
 <!--
 **4nth0ny1/4nth0ny1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Full Stack Web Developer
+
+--- 
+
+- 💬 Ask me about React, NextJS, T3 Stack
+- 🌱 I’m currently learning Typescript
+
