@@ -21,5 +21,5 @@ A passionate full stack web developer dedicated to developing programs that maxi
 
 - 🔭 I’m currently working on [ManageIt](https://t3-manage-it.vercel.app/)
 - 💬 I really like the T3 Stack, MERN Stack, and NextJS. 
-- 🌱 I’m currently learning Typescript, Framer Motion, Prisma, tRPC
+- 🌱 I’m currently learning Typescript, Framer Motion, React Teasting Library, and Jest
 
