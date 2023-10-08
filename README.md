@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 A passionate full stack web developer dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
 
-- 🔭 I’m currently working on [ManageIt](https://t3-manage-it.vercel.app/)
+- 🔭 I’m currently working on [T3-CRM](https://t3-crm-vercel.vercel.app/)
 - 💬 I really like the T3 Stack, MERN Stack, and NextJS. 
 - 🌱 I’m currently learning Typescript, Framer Motion, React Teasting Library, and Jest
 
