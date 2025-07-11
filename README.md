@@ -22,7 +22,7 @@ A passionate full stack web developer dedicated to developing programs that maxi
 Check out my portfolio website ...
 [Creative RNDR](https://new-portfolio-pi-seven.vercel.app/)
 
-- 🔭 I’m currently working on using the RayTracking Algorithm to make a version of Wolfenstein in Javascript.
-- 💬 I really like the T3 Stack, MERN Stack, and NextJS. 
+- 🔭 I’m currently working on Java Backend API for an inventory system.
+- 💬 I really like the T3 Stack, MERN Stack, and NextJS for frontend stuff.
 - 🌱 I’m currently learning Typescript, Framer Motion, React Testing Library, and Jest
 
