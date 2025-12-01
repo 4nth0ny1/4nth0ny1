@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 A passionate full stack developer with DevOps dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
 
-Check out my portfolio website ...
-[Creative RNDR](https://new-portfolio-pi-seven.vercel.app/)
-
-- 🔭 I’m currently working on a expanding my knowledge of Java and DevOps with technologies like Jenkins, Docker, Azure and more. [Jenkins DevOps](https://github.com/4nth0ny1/demo-jenkins-docs)
-- I also like to do fun stuff like learn how to make first person shooters with portal maps like Duke Nukem in C. [FPS Portal](https://github.com/4nth0ny1/fps_portal)
+- Check out my portfolio website ... [Creative RNDR](https://new-portfolio-pi-seven.vercel.app/)
+- 🔭 I’m currently working on a expanding my knowledge of Java and DevOps with technologies like Jenkins, Docker, Azure and more ... [Jenkins DevOps](https://github.com/4nth0ny1/demo-jenkins-docs)
+- I also like to do fun stuff like learn how to make first person shooters with portal maps like Duke Nukem in C ... [FPS Portal](https://github.com/4nth0ny1/fps_portal)
