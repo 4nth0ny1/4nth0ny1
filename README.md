@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 ### Full Stack Web Developer
 
-A passionate full stack web developer dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
+A passionate full stack developer with DevOps dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
 
 Check out my portfolio website ...
 [Creative RNDR](https://new-portfolio-pi-seven.vercel.app/)
 
-- 🔭 I’m currently working on a custom database, like SQLite, built in Java.
-- 💬 I really like the T3 Stack, MERN Stack, and NextJS for frontend stuff.
-- 🌱 I’m currently learning Typescript, Framer Motion, React Testing Library, and Jest
-
+- 🔭 I’m currently working on a expanding my knowledge of Java and DevOps with technologies like Jenkins, Docker, Azure and more.
