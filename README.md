@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Full Stack Web Developer
+# Full Stack Web Developer with DevOps
 
 A passionate full stack developer with DevOps dedicated to developing programs that maximize efficiency in the workplace and life. Let's connect!
 
