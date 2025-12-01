@@ -21,3 +21,4 @@ Check out my portfolio website ...
 [Creative RNDR](https://new-portfolio-pi-seven.vercel.app/)
 
 - 🔭 I’m currently working on a expanding my knowledge of Java and DevOps with technologies like Jenkins, Docker, Azure and more.
+- I also like to do fun stuff like learn how to make first person shooters with portal maps like Duke Nukem. [FPS Portal](https://github.com/4nth0ny1/fps_portal)
